@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/niraj/Desktop/Nepathaya Class/constructor/constructor.csproj": {}
+  },
+  "projects": {
+    "/home/niraj/Desktop/Nepathaya Class/constructor/constructor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/niraj/Desktop/Nepathaya Class/constructor/constructor.csproj",
+        "projectName": "constructor",
+        "projectPath": "/home/niraj/Desktop/Nepathaya Class/constructor/constructor.csproj",
+        "packagesPath": "/home/niraj/.nuget/packages/",
+        "outputPath": "/home/niraj/Desktop/Nepathaya Class/constructor/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/niraj/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

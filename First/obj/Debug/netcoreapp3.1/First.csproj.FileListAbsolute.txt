@@ -1,0 +1,13 @@
+/home/niraj/Desktop/Nepathaya Class/First/bin/Debug/netcoreapp3.1/First
+/home/niraj/Desktop/Nepathaya Class/First/bin/Debug/netcoreapp3.1/First.deps.json
+/home/niraj/Desktop/Nepathaya Class/First/bin/Debug/netcoreapp3.1/First.runtimeconfig.json
+/home/niraj/Desktop/Nepathaya Class/First/bin/Debug/netcoreapp3.1/First.runtimeconfig.dev.json
+/home/niraj/Desktop/Nepathaya Class/First/bin/Debug/netcoreapp3.1/First.dll
+/home/niraj/Desktop/Nepathaya Class/First/bin/Debug/netcoreapp3.1/First.pdb
+/home/niraj/Desktop/Nepathaya Class/First/obj/Debug/netcoreapp3.1/First.csprojAssemblyReference.cache
+/home/niraj/Desktop/Nepathaya Class/First/obj/Debug/netcoreapp3.1/First.AssemblyInfoInputs.cache
+/home/niraj/Desktop/Nepathaya Class/First/obj/Debug/netcoreapp3.1/First.AssemblyInfo.cs
+/home/niraj/Desktop/Nepathaya Class/First/obj/Debug/netcoreapp3.1/First.csproj.CoreCompileInputs.cache
+/home/niraj/Desktop/Nepathaya Class/First/obj/Debug/netcoreapp3.1/First.dll
+/home/niraj/Desktop/Nepathaya Class/First/obj/Debug/netcoreapp3.1/First.pdb
+/home/niraj/Desktop/Nepathaya Class/First/obj/Debug/netcoreapp3.1/First.genruntimeconfig.cache

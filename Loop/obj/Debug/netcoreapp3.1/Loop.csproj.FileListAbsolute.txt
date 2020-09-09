@@ -1,0 +1,13 @@
+/home/niraj/Desktop/Nepathaya Class/Loop/bin/Debug/netcoreapp3.1/Loop
+/home/niraj/Desktop/Nepathaya Class/Loop/bin/Debug/netcoreapp3.1/Loop.deps.json
+/home/niraj/Desktop/Nepathaya Class/Loop/bin/Debug/netcoreapp3.1/Loop.runtimeconfig.json
+/home/niraj/Desktop/Nepathaya Class/Loop/bin/Debug/netcoreapp3.1/Loop.runtimeconfig.dev.json
+/home/niraj/Desktop/Nepathaya Class/Loop/bin/Debug/netcoreapp3.1/Loop.dll
+/home/niraj/Desktop/Nepathaya Class/Loop/bin/Debug/netcoreapp3.1/Loop.pdb
+/home/niraj/Desktop/Nepathaya Class/Loop/obj/Debug/netcoreapp3.1/Loop.csprojAssemblyReference.cache
+/home/niraj/Desktop/Nepathaya Class/Loop/obj/Debug/netcoreapp3.1/Loop.AssemblyInfoInputs.cache
+/home/niraj/Desktop/Nepathaya Class/Loop/obj/Debug/netcoreapp3.1/Loop.AssemblyInfo.cs
+/home/niraj/Desktop/Nepathaya Class/Loop/obj/Debug/netcoreapp3.1/Loop.csproj.CoreCompileInputs.cache
+/home/niraj/Desktop/Nepathaya Class/Loop/obj/Debug/netcoreapp3.1/Loop.dll
+/home/niraj/Desktop/Nepathaya Class/Loop/obj/Debug/netcoreapp3.1/Loop.pdb
+/home/niraj/Desktop/Nepathaya Class/Loop/obj/Debug/netcoreapp3.1/Loop.genruntimeconfig.cache

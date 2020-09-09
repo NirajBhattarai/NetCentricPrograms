@@ -1,0 +1,13 @@
+/home/niraj/Desktop/Nepathaya Class/propertiesdemo/bin/Debug/netcoreapp3.1/propertiesdemo
+/home/niraj/Desktop/Nepathaya Class/propertiesdemo/bin/Debug/netcoreapp3.1/propertiesdemo.deps.json
+/home/niraj/Desktop/Nepathaya Class/propertiesdemo/bin/Debug/netcoreapp3.1/propertiesdemo.runtimeconfig.json
+/home/niraj/Desktop/Nepathaya Class/propertiesdemo/bin/Debug/netcoreapp3.1/propertiesdemo.runtimeconfig.dev.json
+/home/niraj/Desktop/Nepathaya Class/propertiesdemo/bin/Debug/netcoreapp3.1/propertiesdemo.dll
+/home/niraj/Desktop/Nepathaya Class/propertiesdemo/bin/Debug/netcoreapp3.1/propertiesdemo.pdb
+/home/niraj/Desktop/Nepathaya Class/propertiesdemo/obj/Debug/netcoreapp3.1/propertiesdemo.csprojAssemblyReference.cache
+/home/niraj/Desktop/Nepathaya Class/propertiesdemo/obj/Debug/netcoreapp3.1/propertiesdemo.AssemblyInfoInputs.cache
+/home/niraj/Desktop/Nepathaya Class/propertiesdemo/obj/Debug/netcoreapp3.1/propertiesdemo.AssemblyInfo.cs
+/home/niraj/Desktop/Nepathaya Class/propertiesdemo/obj/Debug/netcoreapp3.1/propertiesdemo.csproj.CoreCompileInputs.cache
+/home/niraj/Desktop/Nepathaya Class/propertiesdemo/obj/Debug/netcoreapp3.1/propertiesdemo.dll
+/home/niraj/Desktop/Nepathaya Class/propertiesdemo/obj/Debug/netcoreapp3.1/propertiesdemo.pdb
+/home/niraj/Desktop/Nepathaya Class/propertiesdemo/obj/Debug/netcoreapp3.1/propertiesdemo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/niraj/Desktop/Nepathaya Class/enum/bin/Debug/netcoreapp3.1/enum
+/home/niraj/Desktop/Nepathaya Class/enum/bin/Debug/netcoreapp3.1/enum.deps.json
+/home/niraj/Desktop/Nepathaya Class/enum/bin/Debug/netcoreapp3.1/enum.runtimeconfig.json
+/home/niraj/Desktop/Nepathaya Class/enum/bin/Debug/netcoreapp3.1/enum.runtimeconfig.dev.json
+/home/niraj/Desktop/Nepathaya Class/enum/bin/Debug/netcoreapp3.1/enum.dll
+/home/niraj/Desktop/Nepathaya Class/enum/bin/Debug/netcoreapp3.1/enum.pdb
+/home/niraj/Desktop/Nepathaya Class/enum/obj/Debug/netcoreapp3.1/enum.csprojAssemblyReference.cache
+/home/niraj/Desktop/Nepathaya Class/enum/obj/Debug/netcoreapp3.1/enum.AssemblyInfoInputs.cache
+/home/niraj/Desktop/Nepathaya Class/enum/obj/Debug/netcoreapp3.1/enum.AssemblyInfo.cs
+/home/niraj/Desktop/Nepathaya Class/enum/obj/Debug/netcoreapp3.1/enum.csproj.CoreCompileInputs.cache
+/home/niraj/Desktop/Nepathaya Class/enum/obj/Debug/netcoreapp3.1/enum.dll
+/home/niraj/Desktop/Nepathaya Class/enum/obj/Debug/netcoreapp3.1/enum.pdb
+/home/niraj/Desktop/Nepathaya Class/enum/obj/Debug/netcoreapp3.1/enum.genruntimeconfig.cache

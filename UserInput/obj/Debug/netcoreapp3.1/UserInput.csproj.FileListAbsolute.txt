@@ -1,0 +1,13 @@
+/home/niraj/Desktop/Nepathaya Class/UserInput/bin/Debug/netcoreapp3.1/UserInput
+/home/niraj/Desktop/Nepathaya Class/UserInput/bin/Debug/netcoreapp3.1/UserInput.deps.json
+/home/niraj/Desktop/Nepathaya Class/UserInput/bin/Debug/netcoreapp3.1/UserInput.runtimeconfig.json
+/home/niraj/Desktop/Nepathaya Class/UserInput/bin/Debug/netcoreapp3.1/UserInput.runtimeconfig.dev.json
+/home/niraj/Desktop/Nepathaya Class/UserInput/bin/Debug/netcoreapp3.1/UserInput.dll
+/home/niraj/Desktop/Nepathaya Class/UserInput/bin/Debug/netcoreapp3.1/UserInput.pdb
+/home/niraj/Desktop/Nepathaya Class/UserInput/obj/Debug/netcoreapp3.1/UserInput.csprojAssemblyReference.cache
+/home/niraj/Desktop/Nepathaya Class/UserInput/obj/Debug/netcoreapp3.1/UserInput.AssemblyInfoInputs.cache
+/home/niraj/Desktop/Nepathaya Class/UserInput/obj/Debug/netcoreapp3.1/UserInput.AssemblyInfo.cs
+/home/niraj/Desktop/Nepathaya Class/UserInput/obj/Debug/netcoreapp3.1/UserInput.csproj.CoreCompileInputs.cache
+/home/niraj/Desktop/Nepathaya Class/UserInput/obj/Debug/netcoreapp3.1/UserInput.dll
+/home/niraj/Desktop/Nepathaya Class/UserInput/obj/Debug/netcoreapp3.1/UserInput.pdb
+/home/niraj/Desktop/Nepathaya Class/UserInput/obj/Debug/netcoreapp3.1/UserInput.genruntimeconfig.cache

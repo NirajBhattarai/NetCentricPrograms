@@ -1,0 +1,13 @@
+/home/niraj/Desktop/Nepathaya Class/ifelse/bin/Debug/netcoreapp3.1/ifelse
+/home/niraj/Desktop/Nepathaya Class/ifelse/bin/Debug/netcoreapp3.1/ifelse.deps.json
+/home/niraj/Desktop/Nepathaya Class/ifelse/bin/Debug/netcoreapp3.1/ifelse.runtimeconfig.json
+/home/niraj/Desktop/Nepathaya Class/ifelse/bin/Debug/netcoreapp3.1/ifelse.runtimeconfig.dev.json
+/home/niraj/Desktop/Nepathaya Class/ifelse/bin/Debug/netcoreapp3.1/ifelse.dll
+/home/niraj/Desktop/Nepathaya Class/ifelse/bin/Debug/netcoreapp3.1/ifelse.pdb
+/home/niraj/Desktop/Nepathaya Class/ifelse/obj/Debug/netcoreapp3.1/ifelse.csprojAssemblyReference.cache
+/home/niraj/Desktop/Nepathaya Class/ifelse/obj/Debug/netcoreapp3.1/ifelse.AssemblyInfoInputs.cache
+/home/niraj/Desktop/Nepathaya Class/ifelse/obj/Debug/netcoreapp3.1/ifelse.AssemblyInfo.cs
+/home/niraj/Desktop/Nepathaya Class/ifelse/obj/Debug/netcoreapp3.1/ifelse.csproj.CoreCompileInputs.cache
+/home/niraj/Desktop/Nepathaya Class/ifelse/obj/Debug/netcoreapp3.1/ifelse.dll
+/home/niraj/Desktop/Nepathaya Class/ifelse/obj/Debug/netcoreapp3.1/ifelse.pdb
+/home/niraj/Desktop/Nepathaya Class/ifelse/obj/Debug/netcoreapp3.1/ifelse.genruntimeconfig.cache

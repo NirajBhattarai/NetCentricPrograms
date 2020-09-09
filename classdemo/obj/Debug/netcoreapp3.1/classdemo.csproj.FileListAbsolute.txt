@@ -1,0 +1,13 @@
+/home/niraj/Desktop/Nepathaya Class/classdemo/obj/Debug/netcoreapp3.1/classdemo.csprojAssemblyReference.cache
+/home/niraj/Desktop/Nepathaya Class/classdemo/obj/Debug/netcoreapp3.1/classdemo.AssemblyInfoInputs.cache
+/home/niraj/Desktop/Nepathaya Class/classdemo/obj/Debug/netcoreapp3.1/classdemo.AssemblyInfo.cs
+/home/niraj/Desktop/Nepathaya Class/classdemo/obj/Debug/netcoreapp3.1/classdemo.csproj.CoreCompileInputs.cache
+/home/niraj/Desktop/Nepathaya Class/classdemo/bin/Debug/netcoreapp3.1/classdemo
+/home/niraj/Desktop/Nepathaya Class/classdemo/bin/Debug/netcoreapp3.1/classdemo.deps.json
+/home/niraj/Desktop/Nepathaya Class/classdemo/bin/Debug/netcoreapp3.1/classdemo.runtimeconfig.json
+/home/niraj/Desktop/Nepathaya Class/classdemo/bin/Debug/netcoreapp3.1/classdemo.runtimeconfig.dev.json
+/home/niraj/Desktop/Nepathaya Class/classdemo/bin/Debug/netcoreapp3.1/classdemo.dll
+/home/niraj/Desktop/Nepathaya Class/classdemo/bin/Debug/netcoreapp3.1/classdemo.pdb
+/home/niraj/Desktop/Nepathaya Class/classdemo/obj/Debug/netcoreapp3.1/classdemo.dll
+/home/niraj/Desktop/Nepathaya Class/classdemo/obj/Debug/netcoreapp3.1/classdemo.pdb
+/home/niraj/Desktop/Nepathaya Class/classdemo/obj/Debug/netcoreapp3.1/classdemo.genruntimeconfig.cache
